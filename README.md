@@ -28,3 +28,7 @@ Seat Reservation: Verified the temporary seat-locking mechanism (10-minute timer
 Payment Integration: Tested Bank Webhook processing and automated order status updates to "CONFIRMED".
 
 Seat Release: Confirmed automatic seat release and database status updates upon booking expiration (Timeout).
+
+##Testing Deliverables
+
+* **Detailed Test Case Report (PDF):** [View PDF Report](https://github.com/NhanNW/Movie-Booking-System-Testing-Report/blob/main/Online%20Movie%20Ticket%20Booking%20System%20Report.pdf)
