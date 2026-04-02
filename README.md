@@ -32,3 +32,4 @@ Seat Release: Confirmed automatic seat release and database status updates upon 
 ##Testing Deliverables
 
 * **Detailed Test Case Report (PDF):** [View PDF Report](https://github.com/NhanNW/Movie-Booking-System-Testing-Report/blob/main/Online%20Movie%20Ticket%20Booking%20System%20Report.pdf)
+* **Test case (Excel):** [Download Excel File]([./Online_Movie_Ticket_Booking_System_Report.xlsx](https://github.com/NhanNW/Movie-Booking-System-Testing-Report/blob/main/Online%20Movie%20Ticket%20Booking%20System%20%20Report.xlsx))
